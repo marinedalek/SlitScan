@@ -1,4 +1,5 @@
 #include <raylib.h>
+#include "linear.hpp"
 
 int main()
 {

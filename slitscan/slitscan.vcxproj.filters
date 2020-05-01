@@ -23,7 +23,10 @@
     <None Include="..\README.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\linear.hpp">
+    <ClInclude Include="math_vector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="linear.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
