@@ -22,4 +22,12 @@
   <ItemGroup>
     <None Include="..\README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="linearcolour.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="slitscan.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
