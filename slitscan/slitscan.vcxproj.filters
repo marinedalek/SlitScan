@@ -29,5 +29,8 @@
     <ClInclude Include="slitscan.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="geometric.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
